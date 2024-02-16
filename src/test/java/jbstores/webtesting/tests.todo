@@ -1,0 +1,7 @@
+1. User can login
+2. User can logout
+3. User can search for item and have 5+ results of items relevant to the search
+4. User can select category and have 5+ results of items in that category
+5. User can click on item and view details from search results page
+6. User can click on item and view details from category results page
+7. User can add item to cart from item details page
